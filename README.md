@@ -5,5 +5,7 @@ TikTok Accounts Creator
   - No ShadowBan
   - Device Registration
   - Need Proxies
+  - Captcha Solver
+  - Auto E-mail Confirmation
   - 100% Requests No Selenium
 - Contact : https://t.me/WHI3PER
