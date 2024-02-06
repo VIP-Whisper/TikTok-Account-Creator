@@ -1,11 +1,14 @@
 # TikTok-Account-Creator
 TikTok Accounts Creator
 - Futures :
-  - Captcha Bypassed
   - No ShadowBan
   - Device Registration
   - Need Proxies
   - Captcha Solver
+  - All Algorithms Updated
+  - API (Web/Android/iOS)
   - Auto E-mail Confirmation
   - 100% Requests No Selenium
+  - Other APIs (Like/Follow/Comment...)
+  - Available In Python - C# - go
 - Contact : https://t.me/WHI3PER
