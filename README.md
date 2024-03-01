@@ -7,8 +7,9 @@ TikTok Accounts Creator
   - Captcha Solver
   - All Algorithms Updated
   - API (Web/Android/iOS)
+  - TikTok Lite API
   - Auto E-mail Confirmation
   - 100% Requests No Selenium
   - Other APIs (Like/Follow/Comment...)
-  - Updated In : 23-02-2024
+  - Updated In : 01-03-2024
 - Contact : https://t.me/WHI3PER
