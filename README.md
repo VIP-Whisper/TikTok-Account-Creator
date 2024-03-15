@@ -11,5 +11,5 @@ TikTok Accounts Creator
   - Auto E-mail Confirmation
   - 100% Requests No Selenium
   - Other APIs (Like/Follow/Comment...)
-  - Updated In : 01-03-2024
+  - Updated In : 16-03-2024
 - Contact : https://t.me/WHI3PER
